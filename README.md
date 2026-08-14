@@ -31,7 +31,7 @@ modify and extend.
 Clone the repository and install it in editable mode:
 
 ```bash
-git clone https://github.com/your-user/tensorium.git
+git clone https://github.com/Yo5oyRuben/tensorium.git
 cd tensorium
 pip install -e .
 ```
